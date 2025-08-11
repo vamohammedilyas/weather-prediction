@@ -14,7 +14,7 @@ async function getWeather() {
     const response = await fetch(url);
 
     if (!response.ok) {
-      throw new Error(`City is not found or invalid API key (${response.status})`);
+      throw new Error(`City is not found or invalid API keys (${response.status})`);
     }
 
     const data = await response.json();
