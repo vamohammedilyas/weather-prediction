@@ -29,7 +29,7 @@ The **Weather Prediction App** is a web-based application that allows users to *
 ## How to Use
 1. Clone or download the repository:  
    ```bash
-
+https://vamohammedilyas.github.io/weather-prediction/
 
 
 
