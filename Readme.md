@@ -11,32 +11,22 @@ The **Weather Prediction App** is a web-based application that allows users to *
 ---
 
 ## Features
-- Search weather by city name.
-- Display current temperature, humidity, wind speed, and weather description.
-- Responsive design for mobile and desktop devices.
-- Error handling for invalid city names.
+- Search weather by city name.  
+- Display current temperature, humidity, wind speed, and weather description.  
+- Responsive design for mobile and desktop devices.  
+- Error handling for invalid city names.  
 
 ---
 
 ## Technologies Used
-- **HTML5:** Structure and layout of the app.
-- **CSS3:** Styling and responsive design.
-- **JavaScript:** Fetching API data and updating the UI dynamically.
-- **OpenWeatherMap API:** Real-time weather data.
+- **HTML5:** Structure and layout of the app.  
+- **CSS3:** Styling and responsive design.  
+- **JavaScript:** Fetching API data and updating the UI dynamically.  
+- **OpenWeatherMap API:** Real-time weather data.  
 
 ---
 
 ## How to Use
 1. Clone or download the repository:  
    ```bash
-https://vamohammedilyas.github.io/weather-prediction/
-
-
-
-
-Weather-Prediction/
-├── index.html      # Main HTML file
-├── style.css       # CSS styling
-├── script.js       # JavaScript functionality
-└── README.md       # Project documentation
-
+   git clone https://github.com/vamohammedilyas/Weather-Prediction.git
