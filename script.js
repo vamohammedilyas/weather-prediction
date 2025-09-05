@@ -31,4 +31,4 @@ async function getWeather() {
   } catch (error) {
     document.getElementById("weatherResult").innerHTML = `<p style="color: yellow;">${error.message}</p>`;
   }
-}
+} 
