@@ -16,7 +16,7 @@ async function getWeather() {
     if (!response.ok) {
       throw new Error(`City is not found or invalid API keys (${response.status})`);
     }
-
+ 
     const data = await response.json(); 
 
     const weatherData = `
