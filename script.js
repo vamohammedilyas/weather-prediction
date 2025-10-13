@@ -4,7 +4,7 @@ async function getWeather() {
   const city = document.getElementById("cityInput").value.trim();
 
   if (!city) {
-    alert("Please enter a city name"); 
+    alert("Please Enter a City Name"); 
     return; 
   }
 
