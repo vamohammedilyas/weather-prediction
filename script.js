@@ -7,7 +7,7 @@ async function getWeather() {
     alert("Please Enter a City Name");  
     return; 
   } 
-
+ 
   const url = `https://api.openweathermap.org/data/2.5/weather?q=${encodeURIComponent(city)}&appid=${apiKey}&units=metric`;
  
   try {
