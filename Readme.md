@@ -1,6 +1,5 @@
 # 🌤️ Weather Prediction App
 
-**Author:** Mohammed Ilyas  
 **Technology Stack:** HTML, CSS, JavaScript, OpenWeatherMap API  
 
 ---
